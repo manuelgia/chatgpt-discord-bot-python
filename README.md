@@ -1,6 +1,3 @@
-# chatgpt-discord-bot-python
-A bot for discord who use ChatGPT for it´s answers.
-
 # Chat GPT bot made with Python
 
 Hi for everyone! 🚀
