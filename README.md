@@ -1,4 +1,4 @@
-# Chat GPT bot made with Python
+# Chat GPT bot for Discord created with Python
 
 Hi for everyone! 🚀
 
